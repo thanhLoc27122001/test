@@ -1,1 +1,7 @@
-testaa
+dạ anh, em đã có một vài câu trả lời cho các câu hỏi của anh, xin anh cho em xin nhận xét ạ! 
+
+về câu hỏi có cách nào để khôi phục lại về lần thứ k commit ko, en hiện đang có đáp án là lệnh git revert và theo sau là kiểu id(commit-ish) của lần commit đó
+
+về câu hỏi đứng ở local develope mà push code lên origin thì là ko đc ạ! và nếu chạy lệnh git push ko nó sẽ mặc định push lên remote branch tương ứng với branch đang ở
+
+merge dùng khi branch đó có đông người tham gia còn rebase sẽ dùng khi chỉ có một người tham gia trên branch đó  
